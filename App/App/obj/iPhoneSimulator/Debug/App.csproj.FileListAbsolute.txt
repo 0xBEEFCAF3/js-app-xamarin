@@ -1,0 +1,13 @@
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/bin/iPhoneSimulator/Debug/App.exe
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/bin/iPhoneSimulator/Debug/App.pdb
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_PartialAppManifest.items
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_BundleResourceWithLogicalName.items
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/coremlc/_PartialAppManifest.items
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/optimized/
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/App.csprojAssemblyReference.cache
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/App.csproj.CopyComplete
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/App.exe
+/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/App.pdb

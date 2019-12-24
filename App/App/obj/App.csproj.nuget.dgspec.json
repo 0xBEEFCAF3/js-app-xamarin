@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/App.csproj": {}
+  },
+  "projects": {
+    "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/App.csproj",
+        "projectName": "App",
+        "projectPath": "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/App.csproj",
+        "packagesPath": "/Users/asabouri/.nuget/packages/",
+        "outputPath": "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/asabouri/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.TestCloud.Agent": {
+              "target": "Package",
+              "version": "[0.21.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

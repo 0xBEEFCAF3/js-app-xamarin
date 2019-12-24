@@ -1,0 +1,25 @@
+--cache=/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache
+--sim=/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/bin/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/App.app
+--executable=App
+ --debug
+ --profiling
+ --nolink
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdk=13.2
+--targetver=13.0
+ --aot-options=-O=-float32
+ --http-message-handler=NSUrlSessionHandler
+ --abi=x86_64
+--symbollist=/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-symbols.list
+ --dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Web.Services.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+-r=/Users/asabouri/.nuget/packages/xamarin.testcloud.agent/0.21.8/lib/Xamarin.iOS/Calabash.dll
+ --target-framework=Xamarin.iOS,v1.0
+--root-assembly=/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/bin/iPhoneSimulator/Debug/App.exe
+ 

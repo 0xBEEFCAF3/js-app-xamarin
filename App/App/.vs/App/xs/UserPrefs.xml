@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DABD1A25-0395-4570-826B-0FF7F344967F}|Default">
+  <MonoDevelop.Ide.ItemProperties.App PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7970A1BF-FC94-4925-AF47-312660E051BD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.cs">
+    <Files>
+      <File FileName="WebViewController.cs" Line="45" Column="35" />
+      <File FileName="Views/RazorView.cshtml" Line="33" Column="67" />
+      <File FileName="Main.cs" Line="12" Column="1" />
+      <File FileName="Main.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="App" expanded="True">
+              <Node name="Views" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

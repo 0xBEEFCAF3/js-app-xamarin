@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {
+      "Xamarin.TestCloud.Agent/0.21.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win": {
+      "Xamarin.TestCloud.Agent/0.21.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x64": {
+      "Xamarin.TestCloud.Agent/0.21.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x86": {
+      "Xamarin.TestCloud.Agent/0.21.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Calabash.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xamarin.TestCloud.Agent/0.21.8": {
+      "sha512": "SUpK4HIxwISIzz7q8IfCnXAcKxHuZhhc9wm/3wPOi5+Jwj2dCvfd8C5IJpB7UK0orCerWK0n+DRjkv9h6dcyaw==",
+      "type": "package",
+      "path": "xamarin.testcloud.agent/0.21.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "epl-v10.html",
+        "lib/Xamarin.iOS/Calabash.dll",
+        "xamarin.testcloud.agent.0.21.8.nupkg.sha512",
+        "xamarin.testcloud.agent.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": [
+      "Xamarin.TestCloud.Agent >= 0.21.8"
+    ]
+  },
+  "packageFolders": {
+    "/Users/asabouri/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/App.csproj",
+      "projectName": "App",
+      "projectPath": "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/App.csproj",
+      "packagesPath": "/Users/asabouri/.nuget/packages/",
+      "outputPath": "/Users/asabouri/Desktop/dev/js-app-xamarin/App/App/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/asabouri/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {
+        "dependencies": {
+          "Xamarin.TestCloud.Agent": {
+            "target": "Package",
+            "version": "[0.21.8, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
